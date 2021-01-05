@@ -1,4 +1,2 @@
 Call Data,Key,Value
-W3,/annotated/worker,W3
-W5,/annotated/worker,{"workerID":W5,"workerName":eworker,"cpuUsage":5 core(s) in use,"ram":1% 1.726 GiB/125.9 GiB,"gpu":GeForce GTX 1660, not used,"vRam":0% 1.726 GiB/261.9 GiB}
-W6,/annotated/worker,{"workerID":W6,"workerName":fworker,"cpuUsage":27 core(s) in use,"ram":10% 100.8 GiB/1008 GiB,"gpu":,"vRam":10% 2.619 GiB/261.9 GiB}
+
